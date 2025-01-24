@@ -1,4 +1,4 @@
-# KOL-Wallets-BULLX
+# Top 50 KOL Wallets BULLX Import
 Bullx Wallet Tracker Import for the top 50 KOL wallets from [KOLSCAN](https://kolscan.io/leaderboard).
 
 ## How to import 
