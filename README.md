@@ -314,6 +314,12 @@ Copy the text from below or import.json paste it in the text box and press "Conf
         "address": "ExKCuoAzJCgCVjU3CvNoL8vVrdESTWkx3ubj6rQXwQM4",
         "emoji": "🦍",
         "tags": ["KOL"]
+    },
+    {
+        "name": "gh0stee",
+        "address": "BD7oWkEQsUwE8sj4UT7jtrGjHC8Gq1iRqXY7U6DTbJpf",
+        "emoji": "👻",
+        "tags": ["KOL"]
     }
 ]
 ```
